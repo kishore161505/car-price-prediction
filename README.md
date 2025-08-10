@@ -22,4 +22,4 @@ This project predicts used car prices based on features such as make, model, yea
 3. Run all cells to train and evaluate the model.
 
 ## 🔗 Open in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/car-price-prediction/blob/main/car_price_prediction.ipynb)
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/car-price-prediction/blob/main/car_price_prediction.ipynb](https://colab.research.google.com/drive/1g0QOXWwIkQf-TIO5vGhv3KfoVzOuagOy?usp=sharing))
